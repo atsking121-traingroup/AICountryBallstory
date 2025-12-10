@@ -1,0 +1,2 @@
+# AICountryBallstory
+Gemini APIキーを使用して日本語のポーランドボールのストーリーを作成するPWA
